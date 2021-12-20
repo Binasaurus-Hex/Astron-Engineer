@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7c37f51-1b16-4c67-afc4-9343ab1474b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/2020.1.0b16/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/BaseEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/MouseButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@8.1.0/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/2020.1.0b16/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/2020.1.0b16/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/VirtualCursor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/2020.1.0b16/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/VirtualCursorListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/2020.1.0b16/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Editor/2020.1.0b16/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/InputModules/PointerInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/CursorEventCombiner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIInputPort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UINode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/shipComponents/Thruster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/65/03a6f5b0/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIInputPortContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/ports/OutputPort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIOutputPortContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/ports/InputPort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/74/b128d6d4/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RewindTime/Assets/Player/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DD7BA59-9535-486B-B48A-2633DD80A88B/19/7f4164ad/Ray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/mediums/Information.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/mediums/Medium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/mediums/Power.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/93/d9811bdd/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIOutputPort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/NodeCursorEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/shipComponents/Radiator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/UILabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/ComponentReading/MemberVariablePackage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/UIRect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/shipComponents/Mediums/Water.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/ICursorEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DD7BA59-9535-486B-B48A-2633DD80A88B/41/3b091f48/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeViewport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8918D0C-C5FC-41A1-BABA-01B207A4C016/2e/71622174/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeEnvironmentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeEnvironment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/shipComponents/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/shipComponents/FunctionalComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/CursorEvents/ICursorOnHover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8918D0C-C5FC-41A1-BABA-01B207A4C016/4d/53084f96/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/mediums/Coolant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/CursorEvents/ICursorPointedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DD7BA59-9535-486B-B48A-2633DD80A88B/9b/5fde704f/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/DisplayValueContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/VirtualCursor/VirtualCursorEvent.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIInputPortContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeViewport.cs" />
+        <option value="$PROJECT_DIR$/Assets/TopDownFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/ControlSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/mediums/Information.cs" />
+        <option value="$PROJECT_DIR$/Assets/addForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhysicalComponents/PhysicalThruster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataObjects/Thrusters/DefaultThruster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataObjects/Thrusters/ThrusterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Referenced.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/UniqueId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/UniqueId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/ISavable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModularContainers/ComponentConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModularContainers/Port.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/ports/IOutputPortListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/InstanceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/ports/InputPort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/ports/Port.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipAbstractComponents/ports/OutputPort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIKeyInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/Ship.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModularContainers/ModularContainerListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UISlider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeEnvironmentController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/ReflectionUtilities.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIInputPort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/UI/NodeUI/UIOutputPort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeLayout.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/NodeEnvironment/NodeEnvironment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/Serialization/QuaternionConverter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/Serialization/UnitySerialisationSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes/Serialization/MonoBehaviourConverter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Saving/ISavable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/FunctionalComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/KeyInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/Multiply.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/Split.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/Radiator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saves/ModularContainers/spaceTransport.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModularContainers/ModularContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/Merge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/Thruster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CompositeRigidbody/CompositeRigidbody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CompositeRigidbody/RigidbodyElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/shipComponents/StepFunction.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j3Tzb1DGkk9DOJJZBYxl0kZcD5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.50057536" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Builds/Astron Engineer.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\WhiteWolf\Documents\UnityGames\Astron Engineer\Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c37f51-1b16-4c67-afc4-9343ab1474b3" name="Default Changelist" comment="" />
+      <created>1603032051085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603032051085</updated>
+      <workItem from="1603032071154" duration="10852000" />
+      <workItem from="1603044633027" duration="600000" />
+      <workItem from="1603049888639" duration="5797000" />
+      <workItem from="1603120633088" duration="3150000" />
+      <workItem from="1603140260238" duration="11728000" />
+      <workItem from="1603192756014" duration="5866000" />
+      <workItem from="1603293629709" duration="10477000" />
+      <workItem from="1603330432350" duration="2447000" />
+      <workItem from="1603577779733" duration="1494000" />
+      <workItem from="1603630810738" duration="2582000" />
+      <workItem from="1603709511555" duration="10425000" />
+      <workItem from="1604173771395" duration="1525000" />
+      <workItem from="1604252245476" duration="24483000" />
+      <workItem from="1604328219815" duration="5373000" />
+      <workItem from="1604361333642" duration="1549000" />
+      <workItem from="1604422410663" duration="630000" />
+      <workItem from="1604539851392" duration="7071000" />
+      <workItem from="1604600092456" duration="10944000" />
+      <workItem from="1604631296185" duration="3074000" />
+      <workItem from="1604680425183" duration="23967000" />
+      <workItem from="1604898154367" duration="10165000" />
+      <workItem from="1604957517151" duration="5805000" />
+      <workItem from="1605109471374" duration="1044000" />
+      <workItem from="1607289112065" duration="1059000" />
+      <workItem from="1607290250986" duration="1229000" />
+      <workItem from="1607291613247" duration="2012000" />
+      <workItem from="1608411076459" duration="2546000" />
+      <workItem from="1608457768663" duration="2581000" />
+      <workItem from="1608501502930" duration="491000" />
+      <workItem from="1608565568244" duration="1872000" />
+      <workItem from="1608578228366" duration="10467000" />
+      <workItem from="1608640550988" duration="7015000" />
+      <workItem from="1608734441804" duration="1345000" />
+      <workItem from="1608766041688" duration="1540000" />
+      <workItem from="1608801876364" duration="1835000" />
+      <workItem from="1610988194549" duration="1147000" />
+      <workItem from="1610994024403" duration="1815000" />
+      <workItem from="1611000211040" duration="5301000" />
+      <workItem from="1611055506510" duration="9619000" />
+      <workItem from="1611142695150" duration="2733000" />
+      <workItem from="1611152603537" duration="13451000" />
+      <workItem from="1611241202223" duration="16106000" />
+      <workItem from="1611275137825" duration="3027000" />
+      <workItem from="1611327715905" duration="4156000" />
+      <workItem from="1611444719113" duration="2353000" />
+      <workItem from="1611691296473" duration="2116000" />
+      <workItem from="1611935236114" duration="5653000" />
+      <workItem from="1612724155859" duration="3739000" />
+      <workItem from="1630692235290" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1092" height="693" key="DebuggerActiveHint" timestamp="1611951157343">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1092" height="693" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1611951157343" />
+    <state width="2517" height="361" key="GridCell.Tab.0.bottom" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.0.center" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.0.left" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.0.right" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.1.bottom" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.1.center" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.1.left" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.1.right" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.2.bottom" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.2.center" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.2.left" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.2.right" timestamp="1612745010420">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010420" />
+    <state width="2517" height="361" key="GridCell.Tab.3.bottom" timestamp="1612745010421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010421" />
+    <state width="2517" height="361" key="GridCell.Tab.3.center" timestamp="1612745010421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010421" />
+    <state width="2517" height="361" key="GridCell.Tab.3.left" timestamp="1612745010421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010421" />
+    <state width="2517" height="361" key="GridCell.Tab.3.right" timestamp="1612745010421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="361" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612745010421" />
+    <state x="1084" y="400" key="RiderGenerateDialog" timestamp="1611948811908">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1084" y="400" key="RiderGenerateDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611948811908" />
+    <state width="756" height="700" key="XDebugger.FullValuePopup" timestamp="1607291042475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="756" height="700" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1607291042475" />
+    <state x="958" y="433" width="644" height="534" key="find.popup" timestamp="1612724448327">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="958" y="433" width="644" height="534" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1612724448327" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1611247557891">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611247557891" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604902963577">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1604902963577" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/shipComponents/Thruster.cs</url>
+          <line>62</line>
+          <properties documentPath="C:\Users\WhiteWolf\Documents\UnityGames\Astron Engineer\Assets\Scripts\shipComponents\Thruster.cs" initialLine="62">
+            <startOffsets>
+              <option value="1676" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1742" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+        <PinnedItemInfo parentTag="Type#UnityEngine.Transform" memberName="forward" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
